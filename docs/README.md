@@ -1,7 +1,3 @@
----
-layout: index
----
-
 
 # tmp
 tmp
