@@ -2,4 +2,4 @@
 
 [** Some test is good **][1]
 
-[1]: doc/README.md
+[1]: docs/README.md
