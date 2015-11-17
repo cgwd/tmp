@@ -1,4 +1,6 @@
 # tmp
 tmp
 
-[./docs/README.md./docs/README.md]
+[**link**][1]
+
+[1]: docs/README.md
